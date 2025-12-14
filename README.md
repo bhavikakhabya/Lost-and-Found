@@ -44,33 +44,4 @@ This project turns the **traditional notice board system** into a simple **digit
 2. Open terminal or VS Code
 3. Run the file:
 
-```bash
 python lost_found.py
-
------------
-
-🧠 How It Works
-
-Lost and found items are stored in lists.
-
-Each item contains:
-
-Item name
-
-Location
-
-Date
-
-Matching is done by comparing item names (case-insensitive).
-
--------
-
-🌱 Future Improvements
-
-Save data using files
-
-Add user login
-
-Add item images
-
-Convert into GUI or mobile app
